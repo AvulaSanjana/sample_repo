@@ -7,7 +7,7 @@ Microsoft 365 (formerly Office 365):
 zoom
 Microsoft 365 offers a collection of productivity applications including Microsoft Word, Excel, PowerPoint, Outlook, and Teams, all delivered as a
  service over the internet.
-
+Add a line
 
 Platform as a Service (PaaS) provides a platform allowing customers to develop, run, and manage applications without dealing with the infrastructure typically 2:07 PM 4/23/20242:07 PM 4/23/20242:07 PM 4/23/2024
 associated with building and launching an app. Here are some examples of PaaS offerings:
@@ -16,4 +16,6 @@ Google App Engine: Google's PaaS offering that allows developers to build, deplo
 Microsoft Azure App Service: Azure App Service is a fully managed platform for building, deploying, and scaling web apps and APIs. It supports multiple programming languages and frameworks including .NET, Node.js, Java, Python, and PHP.
 Heroku: Heroku is a cloud platform that enables developers to build, deploy, and scale applications easily. It supports various programming languages and frameworks such as Ruby on Rails, Node.js, Python, Java, and PHP.
 Amazon Web Services (AWS) Elastic Beanstalk: AWS Elastic Beanstalk is a PaaS offering from Amazon that allows developers to deploy and manage applications without worrying about the underlying infrastructure. It supports multiple programming languages and frameworks including Java, .NET, Node.js, Python, and Ruby.
-IBM Cloud Foundry: IBM Cloud Foundry is a cloud platform that enables developers to deploy, run, and scale applications easily. It supports mult
+IBM Cloud 
+Foundry: IBM Cloud Foundry is a cloud platform that enables developers to deploy, run, and scale applications easily. It supports muiht
+
